@@ -469,7 +469,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 7   | La7            | [x]() | <img height="20" src="https://i.imgur.com/F90mpSa.png"/> |
 | 8   | TV8            | [x]() | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> |
 | 26  | Cielo          | [x]() | <img height="20" src="https://i.imgur.com/cPluF03.png"/> |
-| 29  | La7d           | [x]() | <img height="20" src="https://i.imgur.com/AOL9nMw.png"/> |
+| 29  | La7d           | []() | <img height="20" src="https://i.imgur.com/AOL9nMw.png"/> |
 | 41  | K2             | [x](https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> |
 | 44  | Frisbee        | [x](https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> |
 | 56  | HGTV – Home & Garden Tv  | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> |
